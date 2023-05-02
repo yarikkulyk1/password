@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8">
@@ -17,6 +16,3 @@
 		<center><input type="reset" name="res" value="ОЧИСТИТИ"></center>
 	</h2>
 	</form>
-
-</body>
-</html>
